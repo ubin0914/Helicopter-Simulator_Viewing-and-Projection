@@ -1,5 +1,5 @@
 # Helicopter-Simulator_Viewing-and-Projection
-前作品: [Helicopter Simulator](https://github.com/ubin0914/Helicopter-Simulator)  
+前作品: [Helicopter Simulator](https://github.com/ubin0914/Helicopter-Simulator)
   
 延伸前作飛行模擬器，將畫面分割為4個監視器以呈現直升機的不同視角，分別為 x方向、y方向、z方向、camera 4個視角，並可對 view volume (camera) 進行平移、旋轉、縮放、設定視距、跟蹤等操作，以觀察 view volume 的變化。
 ### 下載 [Document.pdf](https://github.com/ubin0914/Helicopter-Simulator_Viewing-and-Projection/blob/master/Document.pdf) 閱讀更詳細的技術說明
